@@ -1,2 +1,3 @@
 # python-calculator
-Future Prediction Stock market 
+
+python scientific calculator
